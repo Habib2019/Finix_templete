@@ -1,0 +1,240 @@
+@media (min-width: 1400px) {
+}
+
+/* col-xl */
+@media (max-width: 1399px) {
+  .banner_content h1 {
+    font-size: 38px;
+  }
+  .banner_content span {
+    font-size: 14px;
+  }
+  .btn-primary {
+    font-size: 12px;
+    padding: 7px 31px;
+  }
+  .banner_content p {
+    font-size: 15px;
+  }
+}
+
+/* col-lg */
+@media (max-width: 1199px) {
+  .banner_content h1 {
+    font-size: 30px;
+    margin-bottom: 13px;
+  }
+  .banner_content p {
+    font-size: 13px;
+  }
+  .banner_content span {
+    font-size: 11px;
+  }
+  .banner_content_wrap {
+    height: 600px;
+  }
+}
+
+/* col-md */
+@media (max-width: 991px) {
+  .banner_content span {
+    font-size: 12px;
+  }
+  .banner_content h1 {
+    font-size: 25px;
+  }
+  .banner_content p {
+    font-size: 16px;
+  }
+  .banner_content_wrap {
+    height: 550px;
+  }
+  .finixText h5 {
+    font-size: 12px;
+  }
+  .finixText h2 {
+    font-size: 25px;
+    margin-bottom: 18px;
+  }
+  .finixText p {
+    font-size: 13px;
+  }
+  .finixText h4 {
+    font-size: 15px;
+  }
+  .finixText ul li {
+    color: #807b7b;
+    font-size: 12px;
+    margin-bottom: 8px;
+  }
+}
+
+/* col-sm */
+@media (max-width: 767px) {
+  .banner_content_wrap {
+    height: 388px;
+  }
+  .banner_content {
+    text-align: center;
+  }
+  .btn-primary {
+    padding: 6px 77px;
+  }
+  .about_company_right {
+    margin-top: 27px;
+  }
+  .about_company_left {
+    text-align: center !important;
+  }
+  .about_company_right {
+    margin-top: 45px;
+  }
+  .marginTop {
+    margin-top: 0px;
+  }
+  .about_company_right {
+    text-align: center;
+  }
+  .whyChooseLeft .finixText {
+    margin-bottom: 34px;
+  }
+  .steps h2 {
+    font-size: 25px;
+  }
+  .steps {
+    margin-bottom: 50px;
+  }
+  .single-steps ul li strong {
+    font-size: 20px;
+  }
+  .single-steps ul li p {
+    font-size: 12px;
+  }
+  .single-steps ul::before {
+    height: calc(100% - 50px);
+  }
+  .help {
+    padding-right: none;
+    border-right: none;
+    border-bottom: 1px solid white;
+    padding-bottom: 20px;
+  }
+  .help h2 {
+    font-size: 20px;
+  }
+  .con {
+    justify-content: center;
+    padding-top: 10px;
+  }
+  .num a {
+    font-size: 18px;
+  }
+  .phone_icon span {
+    width: 50px;
+    height: 50px;
+  }
+  .company_img img {
+    margin-top: 0;
+    display: inline-block;
+  }
+  .company_img {
+    text-align: center;
+  }
+  .client_right {
+    text-align: center;
+  }
+  .expart_item {
+    margin-bottom: 40px;
+  }
+  .recent_news_item {
+    text-align: center;
+    margin-bottom: 43px;
+  }
+  .recent_news_item img {
+    width: 100%;
+  }
+  .recent_news_item_wrap {
+    text-align: left;
+  }
+  .footer_top_left {
+    margin-bottom: 29px;
+  }
+  .footer_top_middle {
+    margin-bottom: 29px;
+  }
+  .footer_top_right {
+    margin-bottom: 29px;
+  }
+  .footer_top_left_wrap {
+    text-align: center;
+  }
+}
+
+@media (max-width: 556px) {
+  .about_company_left .experience {
+    right: 15px;
+    bottom: -21px;
+    width: 168px;
+    height: 168px;
+  }
+  .about_company_right {
+    margin-top: 45px;
+  }
+  .whyChooseLeft .finixText {
+    margin-bottom: 34px;
+  }
+  .finixText h2 {
+    font-size: 18px;
+    margin-bottom: 15px;
+  }
+  .finixText p {
+    font-size: 11px;
+    line-height: 18px;
+  }
+  .expart_item .contact_media ul {
+    padding-left: 106px;
+  }
+  .expart_item {
+    text-align: center;
+  }
+  .recent_news_item {
+    text-align: center;
+    margin-bottom: 43px;
+  }
+  .recent_news_item img {
+    width: 100%;
+  }
+  .recent_news_item_wrap {
+    text-align: left;
+  }
+  .footer_top_left {
+    margin-bottom: 29px;
+  }
+  .footer_top_middle {
+    margin-bottom: 29px;
+  }
+  .footer_top_right {
+    margin-bottom: 29px;
+  }
+  .footer_top_left_wrap {
+    text-align: center;
+  }
+}
+
+@media (max-width: 380px) {
+  .about_company_left .experience {
+    display: none;
+  }
+}
+@media (max-width:440px) {
+  .single-steps ul::before {
+    height: calc(100% - 80px);
+  }
+  .banner_content_wrap{
+    background-color: #F0F5F6;
+  }
+}
+
+
+
+
